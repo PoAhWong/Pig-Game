@@ -2,7 +2,7 @@
 
 A little game to practice DOM.
 Click to play.
-https://PoAhWong.github.io/tic-tac-toe/homepage
+https://poahwong.github.io/Pig-Game/
 ![Game looks like](/screenshot.png)
 ![Game looks like](/screenshot2.png)
 
